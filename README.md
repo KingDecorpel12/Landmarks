@@ -11,3 +11,5 @@ Part 2: Drawing and Animation
 
 - [x] Drawing Paths and Shapes
 - [x] Animating Views & Transitions
+
+Part 3: App Design and Layout
