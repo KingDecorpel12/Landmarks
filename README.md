@@ -8,3 +8,6 @@ Part 1: Programming SwiftUI Essentials
 - [x] Handle User Input
 
 Part 2: Drawing and Animation
+
+- [x] Drawing Paths and Shapes
+- [ ] Animating Views & Transitions
