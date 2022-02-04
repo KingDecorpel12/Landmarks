@@ -13,3 +13,6 @@ Part 2: Drawing and Animation
 - [x] Animating Views & Transitions
 
 Part 3: App Design and Layout
+
+- [ ] Composing Complex Interfaces 
+- [ ] Working With UI Controls
