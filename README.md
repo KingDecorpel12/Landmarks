@@ -15,4 +15,4 @@ Part 2: Drawing and Animation
 Part 3: App Design and Layout
 
 - [x] Composing Complex Interfaces 
-- [ ] Working With UI Controls
+- [x] Working With UI Controls
